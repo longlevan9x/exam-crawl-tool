@@ -9,6 +9,12 @@
         "downloads",
         "tabs"
     ],
+    "icons": {
+        "16": "assets/logo.png",
+        "32": "assets/logo.png",
+        "48": "assets/logo.png",
+        "128": "assets/logo.png"
+    },
     "host_permissions": [
         "<all_urls>"
     ],
@@ -17,7 +23,13 @@
     },
     "action": {
         "default_popup": "popup.html",
-        "default_title": "Start Crawling"
+        "default_title": "Start Crawling",
+        "default_icon": {
+            "16": "assets/logo.png",
+            "32": "assets/logo.png",
+            "48": "assets/logo.png",
+            "128": "assets/logo.png"
+        }
     },
     "content_scripts": [
         {
