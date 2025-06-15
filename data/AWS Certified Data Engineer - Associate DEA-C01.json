@@ -1,0 +1,1040 @@
+{
+  "total": 207,
+  "items": [
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/133045-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 1 discussion\n\nby  Aesthet at Feb. 6, 2024, 12:05 p.m.",
+      "questionNumber": 1
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131714-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 2 discussion\n\nby  [Removed] at Jan. 21, 2024, 3:16 a.m.",
+      "questionNumber": 2
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131706-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 3 discussion\n\nby  [Removed] at Jan. 21, 2024, 2:14 a.m.",
+      "questionNumber": 3
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131467-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 4 discussion\n\nby  milofficial at Jan. 18, 2024, 9:07 a.m.",
+      "questionNumber": 4
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131707-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 5 discussion\n\nby  [Removed] at Jan. 21, 2024, 2:16 a.m.",
+      "questionNumber": 5
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131469-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 6 discussion\n\nby  milofficial at Jan. 18, 2024, 9:32 a.m.",
+      "questionNumber": 6
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131470-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 7 discussion\n\nby  milofficial at Jan. 18, 2024, 9:35 a.m.",
+      "questionNumber": 7
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131471-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 8 discussion\n\nby  milofficial at Jan. 18, 2024, 9:38 a.m.",
+      "questionNumber": 8
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132628-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 9 discussion\n\nby  lalitjhawar at Feb. 1, 2024, 5:29 a.m.",
+      "questionNumber": 9
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131472-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 10 discussion\n\nby  milofficial at Jan. 18, 2024, 9:43 a.m.",
+      "questionNumber": 10
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131473-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 11 discussion\n\nby  milofficial at Jan. 18, 2024, 9:47 a.m.",
+      "questionNumber": 11
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131474-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 12 discussion\n\nby  milofficial at Jan. 18, 2024, 9:51 a.m.",
+      "questionNumber": 12
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131709-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 13 discussion\n\nby  [Removed] at Jan. 21, 2024, 2:35 a.m.",
+      "questionNumber": 13
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131675-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 14 discussion\n\nby  milofficial at Jan. 20, 2024, 11:48 a.m.",
+      "questionNumber": 14
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131676-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 15 discussion\n\nby  milofficial at Jan. 20, 2024, 11:52 a.m.",
+      "questionNumber": 15
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131677-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 16 discussion\n\nby  milofficial at Jan. 20, 2024, 11:54 a.m.",
+      "questionNumber": 16
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131679-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 17 discussion\n\nby  milofficial at Jan. 20, 2024, 11:59 a.m.",
+      "questionNumber": 17
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131680-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 18 discussion\n\nby  milofficial at Jan. 20, 2024, 12:02 p.m.",
+      "questionNumber": 18
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131683-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 19 discussion\n\nby  milofficial at Jan. 20, 2024, 12:14 p.m.",
+      "questionNumber": 19
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131684-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 20 discussion\n\nby  milofficial at Jan. 20, 2024, 12:20 p.m.",
+      "questionNumber": 20
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132653-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 21 discussion\n\nby  TonyStark0122 at Feb. 1, 2024, 10:55 p.m.",
+      "questionNumber": 21
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131710-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 22 discussion\n\nby  [Removed] at Jan. 21, 2024, 2:40 a.m.",
+      "questionNumber": 22
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132654-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 23 discussion\n\nby  TonyStark0122 at Feb. 1, 2024, 11:05 p.m.",
+      "questionNumber": 23
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131711-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 24 discussion\n\nby  [Removed] at Jan. 21, 2024, 2:47 a.m.",
+      "questionNumber": 24
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131712-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 25 discussion\n\nby  [Removed] at Jan. 21, 2024, 2:53 a.m.",
+      "questionNumber": 25
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131713-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 26 discussion\n\nby  [Removed] at Jan. 21, 2024, 3:03 a.m.",
+      "questionNumber": 26
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/133048-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 27 discussion\n\nby  Aesthet at Feb. 6, 2024, 12:18 p.m.",
+      "questionNumber": 27
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132734-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 28 discussion\n\nby  rralucard_ at Feb. 3, 2024, 10:14 a.m.",
+      "questionNumber": 28
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132773-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 29 discussion\n\nby  rralucard_ at Feb. 4, 2024, 1:46 p.m.",
+      "questionNumber": 29
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132774-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 30 discussion\n\nby  rralucard_ at Feb. 4, 2024, 1:56 p.m.",
+      "questionNumber": 30
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132737-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 31 discussion\n\nby  rralucard_ at Feb. 3, 2024, 3:05 p.m.",
+      "questionNumber": 31
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132738-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 32 discussion\n\nby  rralucard_ at Feb. 3, 2024, 3:08 p.m.",
+      "questionNumber": 32
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132630-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 33 discussion\n\nby  rralucard_ at Feb. 1, 2024, 7:31 a.m.",
+      "questionNumber": 33
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/133056-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 34 discussion\n\nby  Aesthet at Feb. 6, 2024, 1:24 p.m.",
+      "questionNumber": 34
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131705-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 35 discussion\n\nby  [Removed] at Jan. 21, 2024, 2:13 a.m.",
+      "questionNumber": 35
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/131708-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 36 discussion\n\nby  [Removed] at Jan. 21, 2024, 2:25 a.m.",
+      "questionNumber": 36
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132739-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 37 discussion\n\nby  rralucard_ at Feb. 3, 2024, 3:40 p.m.",
+      "questionNumber": 37
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132762-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 38 discussion\n\nby  rralucard_ at Feb. 4, 2024, 5:51 a.m.",
+      "questionNumber": 38
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132742-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 39 discussion\n\nby  evntdrvn76 at Feb. 3, 2024, 4:48 p.m.",
+      "questionNumber": 39
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132660-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 40 discussion\n\nby  rralucard_ at Feb. 2, 2024, 4:38 a.m.",
+      "questionNumber": 40
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132349-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 41 discussion\n\nby  atu1789 at Jan. 28, 2024, 9:39 p.m.",
+      "questionNumber": 41
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132348-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 42 discussion\n\nby  atu1789 at Jan. 28, 2024, 9:38 p.m.",
+      "questionNumber": 42
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132353-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 43 discussion\n\nby  atu1789 at Jan. 28, 2024, 10:39 p.m.",
+      "questionNumber": 43
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132354-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 44 discussion\n\nby  atu1789 at Jan. 28, 2024, 10:46 p.m.",
+      "questionNumber": 44
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132667-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 45 discussion\n\nby  rralucard_ at Feb. 2, 2024, 9:33 a.m.",
+      "questionNumber": 45
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132364-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 46 discussion\n\nby  atu1789 at Jan. 29, 2024, 12:30 a.m.",
+      "questionNumber": 46
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132669-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 47 discussion\n\nby  rralucard_ at Feb. 2, 2024, 9:49 a.m.",
+      "questionNumber": 47
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132672-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 48 discussion\n\nby  rralucard_ at Feb. 2, 2024, 10:23 a.m.",
+      "questionNumber": 48
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132673-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 49 discussion\n\nby  rralucard_ at Feb. 2, 2024, 10:29 a.m.",
+      "questionNumber": 49
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132674-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 50 discussion\n\nby  rralucard_ at Feb. 2, 2024, 10:39 a.m.",
+      "questionNumber": 50
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132676-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 51 discussion\n\nby  rralucard_ at Feb. 2, 2024, 10:46 a.m.",
+      "questionNumber": 51
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132677-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 52 discussion\n\nby  rralucard_ at Feb. 2, 2024, 10:51 a.m.",
+      "questionNumber": 52
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132678-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 53 discussion\n\nby  rralucard_ at Feb. 2, 2024, 10:54 a.m.",
+      "questionNumber": 53
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132680-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 54 discussion\n\nby  rralucard_ at Feb. 2, 2024, 11 a.m.",
+      "questionNumber": 54
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132681-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 55 discussion\n\nby  rralucard_ at Feb. 2, 2024, 11:07 a.m.",
+      "questionNumber": 55
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132683-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 56 discussion\n\nby  rralucard_ at Feb. 2, 2024, 11:43 a.m.",
+      "questionNumber": 56
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132684-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 57 discussion\n\nby  rralucard_ at Feb. 2, 2024, 11:48 a.m.",
+      "questionNumber": 57
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132685-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 58 discussion\n\nby  rralucard_ at Feb. 2, 2024, 12:06 p.m.",
+      "questionNumber": 58
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132686-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 59 discussion\n\nby  rralucard_ at Feb. 2, 2024, 12:18 p.m.",
+      "questionNumber": 59
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132687-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 60 discussion\n\nby  rralucard_ at Feb. 2, 2024, 12:36 p.m.",
+      "questionNumber": 60
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/135451-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 61 discussion\n\nby  damaldon at March 7, 2024, 9:57 p.m.",
+      "questionNumber": 61
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/135091-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 62 discussion\n\nby  CalvinL4 at March 3, 2024, 6:06 a.m.",
+      "questionNumber": 62
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132688-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 63 discussion\n\nby  rralucard_ at Feb. 2, 2024, 1 p.m.",
+      "questionNumber": 63
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132689-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 64 discussion\n\nby  rralucard_ at Feb. 2, 2024, 1:03 p.m.",
+      "questionNumber": 64
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132744-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 65 discussion\n\nby  evntdrvn76 at Feb. 3, 2024, 5:21 p.m.",
+      "questionNumber": 65
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132694-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 66 discussion\n\nby  rralucard_ at Feb. 2, 2024, 1:31 p.m.",
+      "questionNumber": 66
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132695-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 67 discussion\n\nby  rralucard_ at Feb. 2, 2024, 1:39 p.m.",
+      "questionNumber": 67
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/135424-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 68 discussion\n\nby  damaldon at March 7, 2024, 3:01 p.m.",
+      "questionNumber": 68
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132696-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 69 discussion\n\nby  rralucard_ at Feb. 2, 2024, 1:47 p.m.",
+      "questionNumber": 69
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132697-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 70 discussion\n\nby  rralucard_ at Feb. 2, 2024, 1:56 p.m.",
+      "questionNumber": 70
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132698-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 71 discussion\n\nby  rralucard_ at Feb. 2, 2024, 2:01 p.m.",
+      "questionNumber": 71
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132699-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 72 discussion\n\nby  rralucard_ at Feb. 2, 2024, 2:04 p.m.",
+      "questionNumber": 72
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132700-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 73 discussion\n\nby  rralucard_ at Feb. 2, 2024, 2:07 p.m.",
+      "questionNumber": 73
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132765-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 74 discussion\n\nby  rralucard_ at Feb. 4, 2024, 9:05 a.m.",
+      "questionNumber": 74
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132701-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 75 discussion\n\nby  rralucard_ at Feb. 2, 2024, 2:16 p.m.",
+      "questionNumber": 75
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132702-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 76 discussion\n\nby  rralucard_ at Feb. 2, 2024, 2:20 p.m.",
+      "questionNumber": 76
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132703-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 77 discussion\n\nby  rralucard_ at Feb. 2, 2024, 2:23 p.m.",
+      "questionNumber": 77
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132706-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 78 discussion\n\nby  rralucard_ at Feb. 2, 2024, 2:28 p.m.",
+      "questionNumber": 78
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132707-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 79 discussion\n\nby  rralucard_ at Feb. 2, 2024, 2:31 p.m.",
+      "questionNumber": 79
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/132708-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 80 discussion\n\nby  rralucard_ at Feb. 2, 2024, 2:34 p.m.",
+      "questionNumber": 80
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142527-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 81 discussion\n\nby  tgv at June 14, 2024, 2:11 p.m.",
+      "questionNumber": 81
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142529-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 82 discussion\n\nby  tgv at June 14, 2024, 4:25 p.m.",
+      "questionNumber": 82
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142558-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 83 discussion\n\nby  tgv at June 15, 2024, 9:12 a.m.",
+      "questionNumber": 83
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142535-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 84 discussion\n\nby  artworkad at June 14, 2024, 6:44 p.m.",
+      "questionNumber": 84
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142559-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 85 discussion\n\nby  tgv at June 15, 2024, 9:20 a.m.",
+      "questionNumber": 85
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142560-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 86 discussion\n\nby  tgv at June 15, 2024, 9:25 a.m.",
+      "questionNumber": 86
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142537-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 87 discussion\n\nby  GHill1982 at June 14, 2024, 8:12 p.m.",
+      "questionNumber": 87
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142562-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 88 discussion\n\nby  tgv at June 15, 2024, 9:43 a.m.",
+      "questionNumber": 88
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142563-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 89 discussion\n\nby  tgv at June 15, 2024, 9:46 a.m.",
+      "questionNumber": 89
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142564-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 90 discussion\n\nby  tgv at June 15, 2024, 9:48 a.m.",
+      "questionNumber": 90
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142565-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 91 discussion\n\nby  tgv at June 15, 2024, 9:51 a.m.",
+      "questionNumber": 91
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142566-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 92 discussion\n\nby  tgv at June 15, 2024, 9:54 a.m.",
+      "questionNumber": 92
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142567-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 93 discussion\n\nby  tgv at June 15, 2024, 9:59 a.m.",
+      "questionNumber": 93
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142568-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 94 discussion\n\nby  tgv at June 15, 2024, 10:01 a.m.",
+      "questionNumber": 94
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142569-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 95 discussion\n\nby  tgv at June 15, 2024, 10:02 a.m.",
+      "questionNumber": 95
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142571-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 96 discussion\n\nby  tgv at June 15, 2024, 10:11 a.m.",
+      "questionNumber": 96
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142561-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 97 discussion\n\nby  GHill1982 at June 15, 2024, 9:31 a.m.",
+      "questionNumber": 97
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142573-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 98 discussion\n\nby  tgv at June 15, 2024, 10:46 a.m.",
+      "questionNumber": 98
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142574-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 99 discussion\n\nby  tgv at June 15, 2024, 10:49 a.m.",
+      "questionNumber": 99
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142575-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 100 discussion\n\nby  tgv at June 15, 2024, 10:52 a.m.",
+      "questionNumber": 100
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142543-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 101 discussion\n\nby  lalitjhawar at June 14, 2024, 11:23 p.m.",
+      "questionNumber": 101
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142576-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 102 discussion\n\nby  tgv at June 15, 2024, 11 a.m.",
+      "questionNumber": 102
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142577-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 103 discussion\n\nby  tgv at June 15, 2024, 11:02 a.m.",
+      "questionNumber": 103
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142542-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 104 discussion\n\nby  JUNGAWS at June 14, 2024, 9:17 p.m.",
+      "questionNumber": 104
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142578-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 105 discussion\n\nby  tgv at June 15, 2024, 11:06 a.m.",
+      "questionNumber": 105
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142579-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 106 discussion\n\nby  tgv at June 15, 2024, 11:09 a.m.",
+      "questionNumber": 106
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/142580-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 107 discussion\n\nby  tgv at June 15, 2024, 11:10 a.m.",
+      "questionNumber": 107
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/143046-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 108 discussion\n\nby  Bmaster at June 29, 2024, 8:15 a.m.",
+      "questionNumber": 108
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/143047-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 109 discussion\n\nby  Bmaster at June 29, 2024, 8:20 a.m.",
+      "questionNumber": 109
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/143051-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 110 discussion\n\nby  Bmaster at June 29, 2024, 8:42 a.m.",
+      "questionNumber": 110
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/143053-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 111 discussion\n\nby  Bmaster at June 29, 2024, 8:52 a.m.",
+      "questionNumber": 111
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/143054-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 112 discussion\n\nby  Bmaster at June 29, 2024, 9:11 a.m.",
+      "questionNumber": 112
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/143056-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 113 discussion\n\nby  Bmaster at June 29, 2024, 9:34 a.m.",
+      "questionNumber": 113
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/143057-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 114 discussion\n\nby  Bmaster at June 29, 2024, 9:35 a.m.",
+      "questionNumber": 114
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/143058-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 115 discussion\n\nby  Bmaster at June 29, 2024, 9:37 a.m.",
+      "questionNumber": 115
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/143060-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 116 discussion\n\nby  Bmaster at June 29, 2024, 9:48 a.m.",
+      "questionNumber": 116
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/143061-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 117 discussion\n\nby  Bmaster at June 29, 2024, 9:51 a.m.",
+      "questionNumber": 117
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/143062-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 118 discussion\n\nby  Bmaster at June 29, 2024, 10 a.m.",
+      "questionNumber": 118
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/143120-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 119 discussion\n\nby  Bmaster at June 30, 2024, 11:52 p.m.",
+      "questionNumber": 119
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/143122-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 120 discussion\n\nby  Bmaster at June 30, 2024, 11:54 p.m.",
+      "questionNumber": 120
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145188-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 121 discussion\n\nby  phkhadse at Aug. 7, 2024, 1:46 a.m.",
+      "questionNumber": 121
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145187-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 122 discussion\n\nby  phkhadse at Aug. 7, 2024, 1:45 a.m.",
+      "questionNumber": 122
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145289-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 123 discussion\n\nby  teo2157 at Aug. 9, 2024, 8:59 a.m.",
+      "questionNumber": 123
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145291-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 124 discussion\n\nby  teo2157 at Aug. 9, 2024, 9:25 a.m.",
+      "questionNumber": 124
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145713-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 125 discussion\n\nby  matt200 at Aug. 14, 2024, 1:45 p.m.",
+      "questionNumber": 125
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145714-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 126 discussion\n\nby  matt200 at Aug. 14, 2024, 1:48 p.m.",
+      "questionNumber": 126
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150336-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 127 discussion\n\nby  Parandhaman_Margan at Oct. 27, 2024, 4:35 a.m.",
+      "questionNumber": 127
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145715-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 128 discussion\n\nby  matt200 at Aug. 14, 2024, 1:50 p.m.",
+      "questionNumber": 128
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145293-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 129 discussion\n\nby  teo2157 at Aug. 9, 2024, 11:53 a.m.",
+      "questionNumber": 129
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145294-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 130 discussion\n\nby  teo2157 at Aug. 9, 2024, 12:09 p.m.",
+      "questionNumber": 130
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145106-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 131 discussion\n\nby  Shanmahi at Aug. 6, 2024, 7:33 a.m.",
+      "questionNumber": 131
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145107-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 132 discussion\n\nby  Shanmahi at Aug. 6, 2024, 7:40 a.m.",
+      "questionNumber": 132
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145007-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 133 discussion\n\nby  canace at Aug. 4, 2024, 11:54 p.m.",
+      "questionNumber": 133
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145116-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 134 discussion\n\nby  Shanmahi at Aug. 6, 2024, 7:52 a.m.",
+      "questionNumber": 134
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145607-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 135 discussion\n\nby  teo2157 at Aug. 12, 2024, 12:48 p.m.",
+      "questionNumber": 135
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145725-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 136 discussion\n\nby  matt200 at Aug. 14, 2024, 2:06 p.m.",
+      "questionNumber": 136
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145726-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 137 discussion\n\nby  matt200 at Aug. 14, 2024, 2:07 p.m.",
+      "questionNumber": 137
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145728-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 138 discussion\n\nby  matt200 at Aug. 14, 2024, 2:08 p.m.",
+      "questionNumber": 138
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145119-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 139 discussion\n\nby  Shanmahi at Aug. 6, 2024, 8:07 a.m.",
+      "questionNumber": 139
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145729-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 140 discussion\n\nby  matt200 at Aug. 14, 2024, 2:09 p.m.",
+      "questionNumber": 140
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/145096-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 141 discussion\n\nby  Shanmahi at Aug. 6, 2024, 7:12 a.m.",
+      "questionNumber": 141
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/147826-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 142 discussion\n\nby  EJGisME at Sept. 19, 2024, 3:11 a.m.",
+      "questionNumber": 142
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/146986-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 143 discussion\n\nby  dashapetr at Sept. 5, 2024, 7:47 a.m.",
+      "questionNumber": 143
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/146967-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 144 discussion\n\nby  EJGisME at Sept. 5, 2024, 3:02 a.m.",
+      "questionNumber": 144
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/147821-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 145 discussion\n\nby  Fawk at Sept. 19, 2024, 2 a.m.",
+      "questionNumber": 145
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/146993-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 146 discussion\n\nby  dashapetr at Sept. 5, 2024, 8:14 a.m.",
+      "questionNumber": 146
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/147168-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 147 discussion\n\nby  EJGisME at Sept. 8, 2024, 9:38 a.m.",
+      "questionNumber": 147
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/147823-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 148 discussion\n\nby  Fawk at Sept. 19, 2024, 2:04 a.m.",
+      "questionNumber": 148
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150357-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 149 discussion\n\nby  0c2d840 at Oct. 27, 2024, 1:27 p.m.",
+      "questionNumber": 149
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151928-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 150 discussion\n\nby  emupsx1 at Nov. 25, 2024, 2:20 a.m.",
+      "questionNumber": 150
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151917-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 151 discussion\n\nby  emupsx1 at Nov. 25, 2024, 12:07 a.m.",
+      "questionNumber": 151
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/147824-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 152 discussion\n\nby  Fawk at Sept. 19, 2024, 2:14 a.m.",
+      "questionNumber": 152
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151918-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 153 discussion\n\nby  emupsx1 at Nov. 25, 2024, 12:30 a.m.",
+      "questionNumber": 153
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151919-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 154 discussion\n\nby  emupsx1 at Nov. 25, 2024, 12:35 a.m.",
+      "questionNumber": 154
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150339-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 155 discussion\n\nby  Parandhaman_Margan at Oct. 27, 2024, 5:11 a.m.",
+      "questionNumber": 155
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150340-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 156 discussion\n\nby  Parandhaman_Margan at Oct. 27, 2024, 5:11 a.m.",
+      "questionNumber": 156
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150341-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 157 discussion\n\nby  Parandhaman_Margan at Oct. 27, 2024, 5:17 a.m.",
+      "questionNumber": 157
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151925-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 158 discussion\n\nby  emupsx1 at Nov. 25, 2024, 1:56 a.m.",
+      "questionNumber": 158
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151926-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 159 discussion\n\nby  emupsx1 at Nov. 25, 2024, 2:11 a.m.",
+      "questionNumber": 159
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151927-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 160 discussion\n\nby  emupsx1 at Nov. 25, 2024, 2:14 a.m.",
+      "questionNumber": 160
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151853-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 161 discussion\n\nby  jacob_nz at Nov. 22, 2024, 11:06 p.m.",
+      "questionNumber": 161
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151931-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 162 discussion\n\nby  emupsx1 at Nov. 25, 2024, 3:09 a.m.",
+      "questionNumber": 162
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150342-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 163 discussion\n\nby  Parandhaman_Margan at Oct. 27, 2024, 5:21 a.m.",
+      "questionNumber": 163
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151854-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 164 discussion\n\nby  jacob_nz at Nov. 22, 2024, 11:28 p.m.",
+      "questionNumber": 164
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151933-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 165 discussion\n\nby  emupsx1 at Nov. 25, 2024, 3:48 a.m.",
+      "questionNumber": 165
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150401-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 166 discussion\n\nby  ae35a02 at Oct. 28, 2024, 2:54 p.m.",
+      "questionNumber": 166
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151935-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 167 discussion\n\nby  emupsx1 at Nov. 25, 2024, 4:21 a.m.",
+      "questionNumber": 167
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150885-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 168 discussion\n\nby  tucobbad at Nov. 6, 2024, 6:01 p.m.",
+      "questionNumber": 168
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151937-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 169 discussion\n\nby  emupsx1 at Nov. 25, 2024, 4:39 a.m.",
+      "questionNumber": 169
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151938-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 170 discussion\n\nby  emupsx1 at Nov. 25, 2024, 4:43 a.m.",
+      "questionNumber": 170
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151939-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 171 discussion\n\nby  emupsx1 at Nov. 25, 2024, 4:54 a.m.",
+      "questionNumber": 171
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151940-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 172 discussion\n\nby  emupsx1 at Nov. 25, 2024, 4:58 a.m.",
+      "questionNumber": 172
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150343-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 173 discussion\n\nby  Parandhaman_Margan at Oct. 27, 2024, 5:37 a.m.",
+      "questionNumber": 173
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150779-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 174 discussion\n\nby  kupo777 at Nov. 5, 2024, 1:24 p.m.",
+      "questionNumber": 174
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151941-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 175 discussion\n\nby  emupsx1 at Nov. 25, 2024, 5:21 a.m.",
+      "questionNumber": 175
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150344-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 176 discussion\n\nby  Parandhaman_Margan at Oct. 27, 2024, 5:40 a.m.",
+      "questionNumber": 176
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151942-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 177 discussion\n\nby  emupsx1 at Nov. 25, 2024, 6:17 a.m.",
+      "questionNumber": 177
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/152459-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 178 discussion\n\nby  emupsx1 at Dec. 2, 2024, 11:44 a.m.",
+      "questionNumber": 178
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151944-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 179 discussion\n\nby  emupsx1 at Nov. 25, 2024, 7:27 a.m.",
+      "questionNumber": 179
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151945-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 180 discussion\n\nby  emupsx1 at Nov. 25, 2024, 7:31 a.m.",
+      "questionNumber": 180
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151948-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 181 discussion\n\nby  emupsx1 at Nov. 25, 2024, 7:43 a.m.",
+      "questionNumber": 181
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/151958-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 182 discussion\n\nby  emupsx1 at Nov. 25, 2024, 1:21 p.m.",
+      "questionNumber": 182
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/152017-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 183 discussion\n\nby  emupsx1 at Nov. 26, 2024, 12:05 a.m.",
+      "questionNumber": 183
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150749-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 184 discussion\n\nby  kupo777 at Nov. 4, 2024, 11:37 p.m.",
+      "questionNumber": 184
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/152018-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 185 discussion\n\nby  emupsx1 at Nov. 26, 2024, 12:11 a.m.",
+      "questionNumber": 185
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/152019-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 186 discussion\n\nby  emupsx1 at Nov. 26, 2024, 12:15 a.m.",
+      "questionNumber": 186
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150748-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 187 discussion\n\nby  kupo777 at Nov. 4, 2024, 11:30 p.m.",
+      "questionNumber": 187
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150345-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 188 discussion\n\nby  Parandhaman_Margan at Oct. 27, 2024, 5:50 a.m.",
+      "questionNumber": 188
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150586-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 189 discussion\n\nby  truongnguyen86 at Oct. 31, 2024, 2:15 p.m.",
+      "questionNumber": 189
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150746-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 190 discussion\n\nby  kupo777 at Nov. 4, 2024, 11:21 p.m.",
+      "questionNumber": 190
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150745-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 191 discussion\n\nby  kupo777 at Nov. 4, 2024, 11:17 p.m.",
+      "questionNumber": 191
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150743-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 192 discussion\n\nby  kupo777 at Nov. 4, 2024, 11:10 p.m.",
+      "questionNumber": 192
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150741-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 193 discussion\n\nby  kupo777 at Nov. 4, 2024, 10:54 p.m.",
+      "questionNumber": 193
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/150740-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 194 discussion\n\nby  kupo777 at Nov. 4, 2024, 10:47 p.m.",
+      "questionNumber": 194
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/153160-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 195 discussion\n\nby  7a1d491 at Dec. 18, 2024, noon",
+      "questionNumber": 195
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/153366-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 196 discussion\n\nby  HagarTheHorrible at Dec. 23, 2024, 10:09 a.m.",
+      "questionNumber": 196
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/153367-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 197 discussion\n\nby  HagarTheHorrible at Dec. 23, 2024, 10:17 a.m.",
+      "questionNumber": 197
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/153159-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 198 discussion\n\nby  7a1d491 at Dec. 18, 2024, 11:58 a.m.",
+      "questionNumber": 198
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/153157-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 199 discussion\n\nby  7a1d491 at Dec. 18, 2024, 11:56 a.m.",
+      "questionNumber": 199
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/153158-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 200 discussion\n\nby  7a1d491 at Dec. 18, 2024, 11:57 a.m.",
+      "questionNumber": 200
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/153156-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 201 discussion\n\nby  7a1d491 at Dec. 18, 2024, 11:50 a.m.",
+      "questionNumber": 201
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/153155-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 202 discussion\n\nby  7a1d491 at Dec. 18, 2024, 11:49 a.m.",
+      "questionNumber": 202
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/153154-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 203 discussion\n\nby  7a1d491 at Dec. 18, 2024, 11:48 a.m.",
+      "questionNumber": 203
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/152992-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 204 discussion\n\nby  7a1d491 at Dec. 15, 2024, 10:20 a.m.",
+      "questionNumber": 204
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/156778-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 205 discussion\n\nby  italiancloud2025 at Feb. 18, 2025, 11:33 p.m.",
+      "questionNumber": 205
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/156779-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 206 discussion\n\nby  italiancloud2025 at Feb. 18, 2025, 11:35 p.m.",
+      "questionNumber": 206
+    },
+    {
+      "link": "https://www.examtopics.com/discussions/amazon/view/156780-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+      "title": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 207 discussion\n\nby  italiancloud2025 at Feb. 18, 2025, 11:36 p.m.",
+      "questionNumber": 207
+    }
+  ]
+}

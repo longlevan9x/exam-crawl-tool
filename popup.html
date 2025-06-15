@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Crawler</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+
+<body>
+    <div class="container">
+        <div id="discussions-group">
+            <button id="start-get-discussions">Start Get Discussions</button>
+            <button id="stop-get-discussions">Stop Get Discussions</button>
+            <div id="status">Idle</div>
+        </div>
+
+        <div id="discussion-details-group">
+            <button class="discussion-details" id="start-get-discussion-details">Start Get Discussion Details</button>
+            <button class="discussion-details" id="stop-get-discussion-details">Stop Get Discussion Details</button>
+            <select name="discussion-details-select" id="discussion-details-select">
+                <option value="">Select Course</option>
+                <!-- Options will be populated dynamically -->
+            </select>
+            <br/>
+            <br/>
+            <div id="status-discussion-details">Idle</div>
+        </div>
+
+        <div class="notfound-group">
+            <p>No valid discussions or discussion details found. Please navigate to a valid page.</p>
+        </div>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+
+</html>
