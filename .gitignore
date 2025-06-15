@@ -1,0 +1,6 @@
+convert-data/node_modules
+convert-data/node_modules/*
+convert-data/discussion*
+convert-data/questions*
+
+package-lock.json
