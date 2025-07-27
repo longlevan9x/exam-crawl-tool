@@ -19,8 +19,8 @@ const EXAMS = [
     { name: 'AWS Certified Developer - Associate DVA-C02' },
     { name: 'AWS Certified Solutions Architect - Associate SAA-C03' },
     { name: 'AWS Certified Solutions Architect - Professional SAP-C02' },
-    { name: 'AWS Certified SysOps Administrator - Associate' },
-    { name: 'AWS Certified Database - Specialty' },
+    { name: 'AWS Certified SysOps Administrator - Associate' }, // SOA-C02
+    { name: 'AWS Certified Database - Specialty' }, // DBS-C01
     { name: 'AWS Certified DevOps Engineer - Professional DOP-C02' },
     { name: 'AWS Certified Data Engineer - Associate DEA-C01' },
     { name: 'AWS Certified Security - Specialty SCS-C02' },

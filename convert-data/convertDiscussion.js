@@ -49,14 +49,14 @@ fs.readdir(folderPath, (err, files) => {
 function handleItems(items) {
     console.log(`Tổng số items: ${items.length}`);
     const exams = [
-        { name: 'AWS Certified Developer - Associate DVA-C02' },
-        { name: 'AWS Certified Solutions Architect - Associate SAA-C03' },
-        { name: 'AWS Certified Solutions Architect - Professional SAP-C02' },
+        // { name: 'AWS Certified Developer - Associate DVA-C02' },
+        // { name: 'AWS Certified Solutions Architect - Associate SAA-C03' },
+        // { name: 'AWS Certified Solutions Architect - Professional SAP-C02' },
         { name: 'AWS Certified SysOps Administrator - Associate' },
-        { name: 'AWS Certified Database - Specialty' },
-        { name: 'AWS Certified DevOps Engineer - Professional DOP-C02' },
-        { name: 'AWS Certified Data Engineer - Associate DEA-C01' },
-        { name: 'AWS Certified Security - Specialty SCS-C02' },
+        // { name: 'AWS Certified Database - Specialty' },
+        // { name: 'AWS Certified DevOps Engineer - Professional DOP-C02' },
+        // { name: 'AWS Certified Data Engineer - Associate DEA-C01' },
+        // { name: 'AWS Certified Security - Specialty SCS-C02' },
 
     ];
 

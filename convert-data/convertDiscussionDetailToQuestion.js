@@ -2,7 +2,7 @@ const fs = require('fs');
 const { JSDOM } = require('jsdom');
 const path = require('path');
 
-const exam = "AWS Certified Developer - Associate DVA-C02";
+// const exam = "AWS Certified Developer - Associate DVA-C02";
 // const exam = "AWS Certified Solutions Architect - Professional SAP-C02";
 // const exam = "AWS Certified SysOps Administrator - Associate";
 // const exam = "AWS Certified Database - Specialty";
@@ -10,48 +10,74 @@ const exam = "AWS Certified Developer - Associate DVA-C02";
 // const exam = "AWS Certified Data Engineer - Associate DEA-C01";
 // const exam = "AWS Certified Security - Specialty SCS-C02";
 // const exam = "AWS Certified Solutions Architect - Associate SAA-C03";
-// Thư mục chứa các file JSON
-const folderPath = path.join(__dirname, 'discussion-details', exam);
+const exams = [
+    // "AWS Certified Developer - Associate DVA-C02",
+    // "AWS Certified Solutions Architect - Professional SAP-C02",
+    "AWS Certified SysOps Administrator - Associate",
+    // "AWS Certified Database - Specialty",
+    // "AWS Certified DevOps Engineer - Professional DOP-C02",
+    // "AWS Certified Data Engineer - Associate DEA-C01",
+    // "AWS Certified Security - Specialty SCS-C02",
+    // "AWS Certified Solutions Architect - Associate SAA-C03"
+];
 
-// Mảng chứa toàn bộ items sau khi merge
+start();
 
-// Đọc tất cả các file trong thư mục
-fs.readdir(folderPath, (err, files) => {
-    if (err) {
-        console.error('Lỗi khi đọc thư mục:', err);
-        return;
-    }
-    let questionItems = [];
+async function start() {
+    for (const exam of exams) {
+        console.log(`Bắt đầu xử lý ${exam}`);
+        // Thư mục chứa các file JSON
+        const folderPath = path.join(__dirname, 'discussion-details', exam);
 
-    console.log(`Đang đọc ${files.length} file(s) trong thư mục ${folderPath}`);
-    files
-        .filter(file => file.endsWith('.json')) // chỉ lấy file .json
-        .forEach(file => {
-            const filePath = path.join(folderPath, file);
-            console.log(`Đang xử lý file: ${filePath}`);
-            try {
-                const data = fs.readFileSync(filePath, 'utf8');
-                const json = JSON.parse(data);
+        // Mảng chứa toàn bộ items sau khi merge
 
-                const item = handleItem(json);
-                questionItems.push(item);
-            } catch (e) {
-                console.error(`Lỗi đọc hoặc parse file ${file}:`, e.message);
-            }
+        // convert to read sync
+        if (!fs.existsSync(folderPath)) {
+            console.error(`Thư mục ${folderPath} không tồn tại. Vui lòng kiểm tra lại.`);
+            console.error(`Bỏ qua ${exam} vì không tìm thấy thư mục.`);
+            continue;
+        }
+
+        // convert to read async
+        const files = fs.readdirSync(folderPath);
+        let questionItems = [];
+
+        if (files.length === 0) {
+            console.warn(`Thư mục ${folderPath} không có file nào.`);
+            continue;
+        }
+
+        console.log(`Đang đọc ${files.length} file(s) trong thư mục ${folderPath}`);
+        files
+            .filter(file => file.endsWith('.json')) // chỉ lấy file .json
+            .forEach(file => {
+                const filePath = path.join(folderPath, file);
+                console.log(`Đang xử lý file: ${filePath}`);
+                try {
+                    const data = fs.readFileSync(filePath, 'utf8');
+                    const json = JSON.parse(data);
+
+                    const item = handleItem(json);
+                    questionItems.push(item);
+                } catch (e) {
+                    console.error(`Lỗi đọc hoặc parse file ${file}:`, e.message);
+                }
+            });
+
+        questionItems = questionItems.sort((a, b) => {
+            return a.id - b.id; // Sắp xếp theo id
         });
 
-    questionItems = questionItems.sort((a, b) => {
-        return a.id - b.id; // Sắp xếp theo id
-    });
-
-    saveQuestions(questionItems, exam);
-});
-
+        saveQuestions(questionItems, exam);
+    }
+}
 
 function handleItem(item) {
     let html = item.html || '';
     html = html.replace(/<style[\s\S]*?<\/style>/gi, '');
     const title = item.title || '';
+
+    const references = [item.url];
 
     const questionNumber = extractQuestionNumber(title);
 
@@ -79,6 +105,29 @@ function handleItem(item) {
         };
     });
 
+    const answerMaps = ["A", "B", "C", "D", "E", "F", "G", "H"];
+    const selectedAnswerLetter = answers.map((answer, index) => {
+        return answer.correct ? answerMaps[index] || '' : '';
+    }).filter(letter => letter !== '').join('');
+
+    const commentContainers = document.querySelectorAll('.discussion-container .comment-container');
+
+    Array.from(commentContainers).forEach(container => {
+        const commentSelectedAnswers = container.querySelector(".comment-selected-answers span")?.textContent || '';
+        if (commentSelectedAnswers === selectedAnswerLetter) {
+            const commentContent = container.querySelector(".comment-content")?.textContent || '';
+            // extract multiple link from commentContent
+            const linkMatches = commentContent.match(/https?:\/\/[^\s]+/g);
+            // check if domain is not equal aws.amazon.com then skip
+            if (linkMatches && linkMatches[0] && (linkMatches[0].includes('aws.amazon.com') || linkMatches[0].includes('aws.github.io'))) {
+                references.push(linkMatches[0]);
+            }
+        }
+    });
+
+    // remote duplicate references
+    const uniqueReferences = Array.from(new Set(references));
+
     const corrects = answers.filter(answer => answer.correct).map(answer => answer.id);
 
     // Trả về đối tượng item đã chuyển đổi
@@ -91,7 +140,7 @@ function handleItem(item) {
         domain: domain,
         correctAnswerExplanations: [],
         incorrectAnswerExplanations: [],
-        references: [item.url]
+        references: uniqueReferences
     };
 }
 

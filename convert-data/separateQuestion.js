@@ -23,6 +23,7 @@ const EXAMS = [
         description: "AWS Certified Developer - Associate DVA-C02 Study Guide",
         updatedAt: "2025-06-11",
         author: "Internet Academy",
+        questionFilename: "AWS Certified Developer - Associate DVA-C02"
     },
     {
         name: "AWS Certified Solutions Architect - Professional SAP-C02",
@@ -35,6 +36,7 @@ const EXAMS = [
         description: "AWS Certified Solutions Architect - Professional SAP-C02 Study Guide",
         updatedAt: "2025-06-11",
         author: "Internet Academy",
+        questionFilename: "AWS Certified Solutions Architect - Professional SAP-C02"
     },
     {
         name: "AWS Certified Solutions Architect - Associate SAA-C03",
@@ -47,8 +49,22 @@ const EXAMS = [
         description: "AWS Certified Solutions Architect - Associate SAA-C03 Study Guide",
         updatedAt: "2025-06-11",
         author: "Internet Academy",
+        questionFilename: "AWS Certified Solutions Architect - Associate SAA-C03"
+    },
+    {
+        name: "AWS Certified SysOps Administrator - Associate SOA-C02",
+        questionCount: 65,
+        folderKey: "examtopic_aws_soa_c02_2025",
+        duration: 130,
+        passScore: 72,
+        domains: [],
+        imageUrl: "/images/aws-soa.png",
+        description: "AWS Certified SysOps Administrator - Associate SOA-C02 Study Guide",
+        updatedAt: "2025-06-11",
+        author: "Internet Academy",
+        questionFilename: "AWS Certified SysOps Administrator - Associate"
     }
-]
+];
 
 // Thư mục chứa các file JSON
 const folderPath = path.join(__dirname, 'questions');
@@ -76,13 +92,15 @@ fs.readdir(folderPath, (err, files) => {
 
         try {
             const fileName = path.basename(file, '.json');
-            const exam = EXAMS.find(exam => exam.name === fileName);
+            const exam = EXAMS.find(exam => exam.questionFilename === fileName);
             const data = fs.readFileSync(filePath, 'utf8');
             const questions = JSON.parse(data);
             const totalQuestions = questions.length;
             const totalFile = Math.round(totalQuestions / exam.questionCount);
             console.log(`Tổng số câu hỏi trong file ${file}: ${totalQuestions}, tổng file: ${totalFile}`);
-      
+
+            delete exam.questionFilename;
+
             const course = { ...exam, id: nextCourseId };
             delete course.folderKey;
             const updatedAt = new Date(exam.updatedAt);
@@ -93,12 +111,17 @@ fs.readdir(folderPath, (err, files) => {
 
             for (let i = 0; i < totalFile; i++) {
                 const fileName = `${exam.folderKey}/${exam.folderKey}_${i + 1}.json`;
+                const start = i * exam.questionCount;
+                const end = start + exam.questionCount;
+                const questionsSlice = questions.slice(start, end);
 
+                
                 const examData = {
                     ...exam,
                     id: nextExamId,
                     courseId: course.id,
                     name: course.name + ` - ${i + 1}`,
+                    questionCount: questionsSlice.length,
                 };
 
                 delete examData.folderKey;
@@ -109,10 +132,6 @@ fs.readdir(folderPath, (err, files) => {
                     "examId": examData.id,
                     "questionFile": fileName
                 });
-
-                const start = i * exam.questionCount;
-                const end = start + exam.questionCount;
-                const questionsSlice = questions.slice(start, end);
 
                 console.log(`Đang ghi vào file: ${fileName}`);
                 saveQuestions(questionsSlice, fileName);
